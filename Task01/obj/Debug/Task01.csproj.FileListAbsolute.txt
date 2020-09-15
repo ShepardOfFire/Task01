@@ -1,0 +1,7 @@
+C:\Users\Wille\OneDrive\Desktop\gade1B\Task 1\Task01\Task01\obj\Debug\Task01.csprojAssemblyReference.cache
+C:\Users\Wille\OneDrive\Desktop\gade1B\Task 1\Task01\Task01\obj\Debug\Task01.csproj.CoreCompileInputs.cache
+C:\Users\Wille\OneDrive\Desktop\gade1B\Task 1\Task01\Task01\bin\Debug\Task01.exe.config
+C:\Users\Wille\OneDrive\Desktop\gade1B\Task 1\Task01\Task01\bin\Debug\Task01.exe
+C:\Users\Wille\OneDrive\Desktop\gade1B\Task 1\Task01\Task01\bin\Debug\Task01.pdb
+C:\Users\Wille\OneDrive\Desktop\gade1B\Task 1\Task01\Task01\obj\Debug\Task01.exe
+C:\Users\Wille\OneDrive\Desktop\gade1B\Task 1\Task01\Task01\obj\Debug\Task01.pdb
